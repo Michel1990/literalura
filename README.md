@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/java%20-%20vermelho"/>
 <img src="https://img.shields.io/badge/json%20-%20verde"/>
-<img src="https://img.shields.io/badge/API-Gutendex"/>
+<img src="https://img.shields.io/badge/API-Gutendex-API"/>
 </p>
 
 <h2 align="center">📦 Funcionalidades</h2>
