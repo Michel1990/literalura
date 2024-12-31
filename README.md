@@ -6,8 +6,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/java%20-%20vermelho"/>
 <img src="https://img.shields.io/badge/API-Gutendex-API"/>
-<img src="https://img.shields.io/badge/Framework-Spring%20Boot-verde"/>
+<img src="https://img.shields.io/badge/Framework-Spring%20Boot-blue"/>
 <img src="https://img.shields.io/badge/SpringData-JPA-rosa"/>
+<img src="https://img.shields.io/badge/BancoDeDados-PostgreSQL-red"/>
 </p>
 
 <h2 align="center">📦 Funcionalidades</h2>
